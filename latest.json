@@ -6,9 +6,9 @@
   "sha256": "5e3ff91d50b9afb998691bde3ab4a915d348ac2e1b5ac6a8577166422afbe493",
   "mandatory": false,
   "delta": {
-    "fromVersion": "0.0.40",
-    "fromSha256": "d8231327a9ea805813df784cc83fa9445a58d3a29c634557d906eebb8773c846",
+    "fromVersion": "0.0.39",
+    "fromSha256": "532ca96d863c07c022934c72e8b2274bd8ee5f14bd552ff1ccd6c0e5c4d71a30",
     "url": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.40/Solis.delta",
-    "sha256": "615394de6e77413d6741ec655246b00ce1488c69ceea0faa0ba14d0a423bfd2a"
+    "sha256": "c44784c7ffe462dc3ef9d2a5867303f57a3745b8e867ced2188d1452590d13fd"
   }
 }
