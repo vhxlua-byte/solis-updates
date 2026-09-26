@@ -1,14 +1,14 @@
 {
   "product": "Solis",
-  "version": "0.0.36",
-  "build": 36,
+  "version": "0.0.37",
+  "build": 37,
   "download": "https://github.com/vhxlua-byte/solis-updates/releases/latest/download/Solis.exe",
-  "sha256": "c6150c7ad73b74ba7f0e03938325760af4c6db1f79d4f9a7ac53def5d6a3f424",
+  "sha256": "d54e055639e738213dcbb83c9ee1c7f70c75673dfe9834a9dddd5917d26757c6",
   "mandatory": false,
   "delta": {
-    "fromVersion": "0.0.35",
-    "fromSha256": "a936a6aecdf94abd296ffde2452bf3b5d60a5d45ec410ec7c628760adffce9ac",
+    "fromVersion": "0.0.36",
+    "fromSha256": "c6150c7ad73b74ba7f0e03938325760af4c6db1f79d4f9a7ac53def5d6a3f424",
     "url": "https://github.com/vhxlua-byte/solis-updates/releases/latest/download/Solis.delta",
-    "sha256": "f6bef07d600bb391172290cbe7b03674a03adee5e079b00f421d7978cd6f92a1"
+    "sha256": "1959a14689e43366b8e4dad587048d452c5898be997f76854826d37beac70b54"
   }
 }
