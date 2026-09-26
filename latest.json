@@ -1,8 +1,8 @@
 {
   "product": "Solis",
-  "version": "0.0.33",
-  "build": 33,
+  "version": "0.0.34",
+  "build": 34,
   "download": "https://github.com/vhxlua-byte/solis-updates/releases/latest/download/Solis.exe",
-  "sha256": "0d7c866059803cc4dbe9ce2b079d4da5359444a096bbf7a1897809137de69ffc",
+  "sha256": "fbcd6a50a04dc692e2b14bd2537455c7ea8fc33367062a956ed09233b922998e",
   "mandatory": false
 }
