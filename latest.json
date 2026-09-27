@@ -1,22 +1,22 @@
 {
   "product": "Solis",
-  "version": "0.0.44",
-  "build": 44,
-  "download": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.44/Solis.exe",
-  "sha256": "d0e654a00930c7bff0716746a290bcd3ccbb503cc73dba38b5851e351b7b33ea",
+  "version": "0.0.45",
+  "build": 45,
+  "download": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.45/Solis.exe",
+  "sha256": "e17fd568e93e8003dc8970027c76c9f69b35080897b5dcae746626ee1bea23f6",
   "mandatory": false,
   "deltas": [
     {
-      "fromVersion": "0.0.43",
-      "fromSha256": "8dc55d9216e31a6f8507a18eb6bc5109aa0a21b552e3a89bae04aa632632c662",
-      "url": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.44/Solis-0.0.43-to-0.0.44.delta",
-      "sha256": "12f47e5af6719852daf5529e62df0b099a191f06c91fa26fa68b28f56723a9db"
+      "fromVersion": "0.0.44",
+      "fromSha256": "d0e654a00930c7bff0716746a290bcd3ccbb503cc73dba38b5851e351b7b33ea",
+      "url": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.45/Solis-0.0.44-to-0.0.45.delta",
+      "sha256": "e3b4b9ddb61d2e6e94e44cd8a11d561e2e008717d723884bba5020df8eefc4b2"
     }
   ],
   "delta": {
-    "fromVersion": "0.0.43",
-    "fromSha256": "8dc55d9216e31a6f8507a18eb6bc5109aa0a21b552e3a89bae04aa632632c662",
-    "url": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.44/Solis-0.0.43-to-0.0.44.delta",
-    "sha256": "12f47e5af6719852daf5529e62df0b099a191f06c91fa26fa68b28f56723a9db"
+    "fromVersion": "0.0.44",
+    "fromSha256": "d0e654a00930c7bff0716746a290bcd3ccbb503cc73dba38b5851e351b7b33ea",
+    "url": "https://github.com/vhxlua-byte/solis-updates/releases/download/v0.0.45/Solis-0.0.44-to-0.0.45.delta",
+    "sha256": "e3b4b9ddb61d2e6e94e44cd8a11d561e2e008717d723884bba5020df8eefc4b2"
   }
 }
